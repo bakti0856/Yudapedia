@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.yudapedia.store/sitemap.xml
